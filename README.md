@@ -11,10 +11,10 @@ Predicts high-potential dealership regions using a trained ML model
 Combines rule-based scoring with ML predictions for explainable, actionable decisions
 
 **Key Features**
-Passive Income Ratio — custom engineered feature capturing wealth beyond active employment
-Financial Stability Score — measures income consistency and long-term purchasing power
-Random Forest Model — trained and validated with feature importance analysis
-Hybrid Decision System — combines ML predictions with rule-based scoring for business interpretability
+Passive Income Ratio - custom engineered feature capturing wealth beyond active employment
+Financial Stability Score - measures income consistency and long-term purchasing power
+Random Forest Model - trained and validated with feature importance analysis
+Hybrid Decision System - combines ML predictions with rule-based scoring for business interpretability
 
 **Tech Stack**
 Python, ML - Scikit-learn, Random Forest, Pandas, NumPy, Matplotlib, Seaborn, Data Source - IRS ZIP-level income data
