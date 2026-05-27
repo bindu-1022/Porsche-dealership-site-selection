@@ -1,4 +1,4 @@
-**Porsche Dealership Site Selection — AI-Driven Market Intelligence System**
+**Porsche Dealership Site Selection - AI-Driven Market Intelligence System**
 
 An end-to-end data intelligence system that identifies optimal Porsche dealership locations across the US by analyzing IRS ZIP-level income data and applying machine learning to model luxury consumer behavior.
 Problem
